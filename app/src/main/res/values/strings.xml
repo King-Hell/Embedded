@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">多功能门禁</string>
+    <string name="title_password">密码验证</string>
+    <string name="title_qr">二维码验证</string>
+    <string name="title_face">人脸验证</string>
+    <string name="title_nfc">NFC验证</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="confirm">确定</string>
+    <!--人脸检测相关错误代码-->
+    <string name="permission_denied">权限被拒绝！</string>
+    <string name="init_failed">引擎初始化失败，错误码为 %d</string>
+    <string name="register">注册</string>
+    <string name="liveness_detect">活体检测</string>
+    <string name="clear_faces">清空人脸库</string>
+    <string name="no_face_need_to_delete">无人脸需要删除</string>
+    <string name="notification">提示</string>
+    <string name="confirm_delete">确认删除这%d张图片及人脸特征？</string>
+    <string name="ok">确认</string>
+    <string name="cancel">取消</string>
+    <string name="open_nfc">开启NFC</string>
+    <string name="close_nfc">关闭NFC</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
